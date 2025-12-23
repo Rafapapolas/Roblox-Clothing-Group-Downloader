@@ -17,7 +17,14 @@ Open up the "Roblox Clothing Group Downloader" folder:
 5- It will open a black window wait until it closes.
 6- go to ├── runtime/assets/ and your clothing should be there.
 ```
+## ⚡ How to Rename Clothes
 
+
+```bash
+1- Run the Roblox Catalog Scraper.py with the id of the group that u want
+2- Clothing Rnamer.py
+3- Done
+```
 ---
 
 ## 📂 project structure
