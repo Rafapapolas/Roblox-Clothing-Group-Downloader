@@ -16,6 +16,20 @@ automatically applies a user-provided template overlay to each asset, so you don
 
 ---
 
+## ⚡ Manual Installation
+
+Open up the "Roblox Clothing Group Downloader" folder:
+
+```bash
+1- Run requirements.bat
+2- Open download_my_group.py via vscode, and change the id of the group to the one u want and save
+3- Run start.bat
+4- It will open a black window wait until it closes.
+5- go to ├── runtime/assets/ and your clothing should be there.
+```
+
+---
+
 ## 📂 project structure
 
 ```
@@ -35,9 +49,9 @@ roblox-downloader/
 clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/dorochadev/roblox-asset-downloader.git
+git clone https://github.com/Rafapapolas/Roblox-Clothing-Group-Downloader.git
 cd roblox-asset-downloader
-pip install -r requirements.txt
+run requirements.bat
 ```
 
 ---
