@@ -21,7 +21,7 @@ Open up the "Roblox Clothing Group Downloader" folder:
 
 
 ```bash
-1- Run the Roblox Catalog Scraper.py with the id of the group that u want
+1- Run the Roblox Catalog Scraper.py But before that go to the group u want click "see all" and copy the url and place it there
 2- Clothing Rnamer.py
 3- Done
 ```
