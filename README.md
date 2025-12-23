@@ -5,17 +5,6 @@ automatically applies a user-provided template overlay to each asset, so you don
 
 ---
 
-## ✨ key features
-
-* **bulk asset downloads** — fetch single assets, multiple ids, or entire group stores
-* **automatic template overlay** — your provided image is composited onto every downloaded asset
-* async and concurrent downloads powered by `aiohttp`
-* supports shirts and pants (extendable to other asset types)
-* saves assets locally under `runtime/assets/`
-* works with authenticated roblox cookies if required
-
----
-
 ## ⚡ Manual Installation
 
 Open up the "Roblox Clothing Group Downloader" folder:
@@ -23,9 +12,10 @@ Open up the "Roblox Clothing Group Downloader" folder:
 ```bash
 1- Run requirements.bat
 2- Open download_my_group.py via vscode, and change the id of the group to the one u want and save
-3- Run start.bat
-4- It will open a black window wait until it closes.
-5- go to ├── runtime/assets/ and your clothing should be there.
+3- In the download_my_group.py where it says "await downloader.download_group_items(group_id, limit=10)" the limit of clothing can be changed to 300 or even more.
+4- Run start.bat
+5- It will open a black window wait until it closes.
+6- go to ├── runtime/assets/ and your clothing should be there.
 ```
 
 ---
